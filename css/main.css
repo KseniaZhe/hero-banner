@@ -22,15 +22,19 @@ body {
   font-size: 2rem;
   margin: .5rem 0 0;
   padding: .5rem 0;
+  max-width: 45rem;
 }
 
-.banner-content h2 {
+h2 {
   font-weight: bold;
   background-color: rgba(0, 0, 0, .5);
   color: #fff;
   font-size: 4rem;
+  width: 37.5rem;
+  line-height: 1.4;
   margin: 0;
   padding: 0;
+  background-color: rgba(0, 0, 0, .5);
 }
 
 .banner {
@@ -42,8 +46,11 @@ body {
 .banner-content {
   position: absolute;
   bottom: 1em;
-  padding: 0 1rem;
-  left: 10%;
-  transform: translateX(-10%);
-  max-width: 39.5rem;
+  padding: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.title {
+
 }
