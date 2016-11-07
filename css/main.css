@@ -27,14 +27,12 @@ body {
 
 h2 {
   font-weight: bold;
-  background-color: rgba(0, 0, 0, .5);
   color: #fff;
   font-size: 4rem;
   width: 37.5rem;
   line-height: 1.4;
   margin: 0;
   padding: 0;
-  background-color: rgba(0, 0, 0, .5);
 }
 
 .banner {
@@ -52,5 +50,5 @@ h2 {
 }
 
 .title {
-
+  background-color: rgba(0, 0, 0, .5);
 }
